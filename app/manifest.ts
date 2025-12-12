@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
         name: 'Cookbook PWA',
         short_name: 'Cookbook',
         description: 'A Progressive Web App built with Next.js',
-        start_url: '/',
+        start_url: '/cookbook',
         display: 'standalone',
         background_color: '#ffffff',
         theme_color: '#000000',
